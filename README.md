@@ -30,7 +30,7 @@ Essa Api fornece o acesso aos usuários do sistema:
 
 ## Suporte
 
-Documentação publicada [apiRest](http://https://crisgit.github.io/apiRest), poderá ser visualizada para maiores informações da aplicação em formato de exemplos em várias linguagens de programação.
+Documentação publicada [apiRest](https://crisgit.github.io/apiRest), poderá ser visualizada para maiores informações da aplicação em formato de exemplos em várias linguagens de programação.
 
 ## Licença
 
