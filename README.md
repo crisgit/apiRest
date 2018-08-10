@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lista de Usuários
 
 ## API Documentação
@@ -40,3 +41,7 @@ Documentação publicada [apiRest](http://https://crisgit.github.io/apiRest), po
 
 
 
+=======
+# apiRest
+Documentação criada de Api que fornece o acesso aos usuários do sistema.  :page_with_curl: REST
+>>>>>>> b9f0268ab73cdc1fd7e7ef90edeec93b07195177
